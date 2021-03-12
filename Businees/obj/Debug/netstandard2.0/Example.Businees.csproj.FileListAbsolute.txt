@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.Businees.deps.json
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.Businees.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.Businees.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.Core.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.DataAccess.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.Entities.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.Entities.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.Core.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\bin\Debug\netstandard2.0\Example.DataAccess.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\obj\Debug\netstandard2.0\Example.Businees.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\obj\Debug\netstandard2.0\Example.Businees.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\obj\Debug\netstandard2.0\Example.Businees.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\obj\Debug\netstandard2.0\Example.Businees.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\obj\Debug\netstandard2.0\Example.Businees.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\obj\Debug\netstandard2.0\Example.Businees.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Businees\obj\Debug\netstandard2.0\Example.Businees.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\bin\Debug\netstandard2.0\Example.DataAccess.deps.json
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\bin\Debug\netstandard2.0\Example.DataAccess.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\bin\Debug\netstandard2.0\Example.DataAccess.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\bin\Debug\netstandard2.0\Example.Core.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\bin\Debug\netstandard2.0\Example.Entities.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\bin\Debug\netstandard2.0\Example.Entities.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\bin\Debug\netstandard2.0\Example.Core.pdb
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\obj\Debug\netstandard2.0\Example.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\obj\Debug\netstandard2.0\Example.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\obj\Debug\netstandard2.0\Example.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\obj\Debug\netstandard2.0\Example.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\obj\Debug\netstandard2.0\Example.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\obj\Debug\netstandard2.0\Example.DataAccess.dll
+C:\Users\Lenovo\source\repos\ExampleBackend\Example.DataAccess\obj\Debug\netstandard2.0\Example.DataAccess.pdb

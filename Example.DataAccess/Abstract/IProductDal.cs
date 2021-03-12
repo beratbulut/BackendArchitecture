@@ -1,0 +1,12 @@
+﻿using Example.Core.DataAccess;
+using Example.Entities.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Example.DataAccess.Abstract
+{
+    public interface IProductDal: IEntityRepository<Product>
+    {
+    }
+}
