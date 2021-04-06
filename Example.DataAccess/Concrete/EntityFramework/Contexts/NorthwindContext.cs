@@ -7,7 +7,7 @@ namespace Example.DataAccess.Concrete.EntityFramework.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=DESKTOP-P4D8NV6;Database=NORTHWND;User Id=erd;Password=erd;");
+            optionsBuilder.UseSqlServer(@"****");
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
