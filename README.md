@@ -6,7 +6,6 @@ Gebze Toptan
 
 Tek Kullanımlık Tela Şort Nedir?
 Tek kullanımlık tela şortlar, nonwoven (dokunmamış) kumaştan üretilen, hafif ve nefes alabilir yapıya sahip, hijyenik şortlardır. Genellikle siyah renkte olup iç göstermeyen yapısıyla kullanıcıya rahatlık sağlar. Standart ölçülerde üretilen bu şortlar, tek tek paketlenerek hijyenik kullanım sunar.
-pazarpazartesi.com
 
 Gebze Toptan Tek Kullanımlık Tela Şort Özellikleri
 Gebze Toptan tarafından sunulan tek kullanımlık tela şortlar, 30 gr/m² kalınlığında tela kumaştan üretilmiştir. Ürün boyutları 47 cm boy ve 58 cm en olarak standart ölçülerdedir. Her bir şort, tek tek poşetlenmiş şekilde sunularak hijyenik kullanım imkanı sağlar. Ürün, özellikle otel, SPA, hamam ve sağlık kuruluşları gibi işletmeler için uygundur.
